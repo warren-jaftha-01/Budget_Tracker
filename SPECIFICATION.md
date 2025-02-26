@@ -1,7 +1,7 @@
 # 📄 SPECIFICATION.md  
 
 ## 📌 Project Title  
-**Minimalist Budget Tracker**  
+**Budget Tracker**  
 
 ## 🌍 Domain  
 **Personal Finance Management**  
